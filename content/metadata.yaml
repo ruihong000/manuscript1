@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Manuscript 1"
 keywords:
   - markdown
   - publishing
@@ -8,7 +8,7 @@ lang: en-US
 authors:
   -
     github: johndoe
-    name: John Doe
+    name: Ruihong Wang
     initials: JD
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
