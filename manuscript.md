@@ -41,7 +41,7 @@ header-includes: '<!--
 
   <meta name="citation_author" content="Ruihong Wang" />
 
-  <meta name="citation_author_institution" content="Electrical &amp; Computer Engineering, University of Whatever" />
+  <meta name="citation_author_institution" content="Electrical &amp; Computer Engineering, Texas A&amp;M University" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ruihong000.github.io/manuscript1/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/" />
+  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/089428c6cb532597a6ede0512ba32f436bc12679/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/" />
+  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/089428c6cb532597a6ede0512ba32f436bc12679/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/089428c6cb532597a6ede0512ba32f436bc12679/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript 1
 
 <small><em>
 This manuscript
-([permalink](https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/))
+([permalink](https://ruihong000.github.io/manuscript1/v/089428c6cb532597a6ede0512ba32f436bc12679/))
 was automatically generated
-from [ruihong000/manuscript1@21ee3cb](https://github.com/ruihong000/manuscript1/tree/21ee3cb4011ffe31b84647adaafd98b6bc50af9a)
+from [ruihong000/manuscript1@089428c](https://github.com/ruihong000/manuscript1/tree/089428c6cb532597a6ede0512ba32f436bc12679)
 on February 11, 2020.
 </em></small>
 
@@ -121,7 +121,7 @@ on February 11, 2020.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
-     Electrical & Computer Engineering, University of Whatever
+     Electrical & Computer Engineering, Texas A&M University
      · Funded by Grant XXXXXXXX
   </small>
 
