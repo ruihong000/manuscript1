@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-01-22'
+date-meta: '2020-02-11'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript 1" />
 
-  <meta name="dc.date" content="2020-01-22" />
+  <meta name="dc.date" content="2020-02-11" />
 
-  <meta name="citation_publication_date" content="2020-01-22" />
+  <meta name="citation_publication_date" content="2020-02-11" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -41,7 +41,7 @@ header-includes: '<!--
 
   <meta name="citation_author" content="Ruihong Wang" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Electrical &amp; Computer Engineering, University of Whatever" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ruihong000.github.io/manuscript1/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/9265b1ac84debe4a8948b09d565e72886d7920af/" />
+  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/9265b1ac84debe4a8948b09d565e72886d7920af/" />
+  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/9265b1ac84debe4a8948b09d565e72886d7920af/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Manuscript 1
 
 <small><em>
 This manuscript
-([permalink](https://ruihong000.github.io/manuscript1/v/9265b1ac84debe4a8948b09d565e72886d7920af/))
+([permalink](https://ruihong000.github.io/manuscript1/v/21ee3cb4011ffe31b84647adaafd98b6bc50af9a/))
 was automatically generated
-from [ruihong000/manuscript1@9265b1a](https://github.com/ruihong000/manuscript1/tree/9265b1ac84debe4a8948b09d565e72886d7920af)
-on January 22, 2020.
+from [ruihong000/manuscript1@21ee3cb](https://github.com/ruihong000/manuscript1/tree/21ee3cb4011ffe31b84647adaafd98b6bc50af9a)
+on February 11, 2020.
 </em></small>
 
 ## Authors
@@ -121,7 +121,7 @@ on January 22, 2020.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
-     Department of Something, University of Whatever
+     Electrical & Computer Engineering, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
