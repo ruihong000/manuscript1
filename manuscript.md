@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ruihong000.github.io/manuscript1/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/6ad102e3deed8af9ec81b6ec0e5be05009bdd884/" />
+  <link rel="alternate" type="text/html" href="https://ruihong000.github.io/manuscript1/v/cea817ebb6cb1d20dca482c2535be39ac1151558/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/6ad102e3deed8af9ec81b6ec0e5be05009bdd884/" />
+  <meta name="manubot_html_url_versioned" content="https://ruihong000.github.io/manuscript1/v/cea817ebb6cb1d20dca482c2535be39ac1151558/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/6ad102e3deed8af9ec81b6ec0e5be05009bdd884/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ruihong000.github.io/manuscript1/v/cea817ebb6cb1d20dca482c2535be39ac1151558/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript 1
 
 <small><em>
 This manuscript
-([permalink](https://ruihong000.github.io/manuscript1/v/6ad102e3deed8af9ec81b6ec0e5be05009bdd884/))
+([permalink](https://ruihong000.github.io/manuscript1/v/cea817ebb6cb1d20dca482c2535be39ac1151558/))
 was automatically generated
-from [ruihong000/manuscript1@6ad102e](https://github.com/ruihong000/manuscript1/tree/6ad102e3deed8af9ec81b6ec0e5be05009bdd884)
+from [ruihong000/manuscript1@cea817e](https://github.com/ruihong000/manuscript1/tree/cea817ebb6cb1d20dca482c2535be39ac1151558)
 on February 11, 2020.
 </em></small>
 
@@ -143,19 +143,7 @@ on February 11, 2020.
 
 ## 1. Introduction
 
-Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
-While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust based model.
-Completely non-reversible transactions are not really possible, since financial institutions cannot avoid mediating disputes.
-The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for non-reversible services.
-With the possibility of reversal, the need for trust spreads.
-Merchants must be wary of their customers, hassling them for more information than they would otherwise need.
-A certain percentage of fraud is accepted as unavoidable.
-These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
 
-What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party.
-Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers.
-In this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions.
-The system is secure as long as honest nodes collectively control more CPU power than any cooperating group of attacker nodes.
 
 ## 2. Transactions
 
